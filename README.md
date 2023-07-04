@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Maitri P Tadas</h1>
-<h3 align="center">A Passionate Web-developer from India</h3>
+<h1 align="center">Hi 👋, I'm Maitri P T</h1>
+<h4>A final year undergraduate in Information Science and Engineering at Ramaiah Institute of Technology</h4>
+<br>
 <img align ="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"/>
 
-- 🔭 I’m currently working on **Node.js and MongoDB**
+- I’m currently into ML and Web development.
 
-- 🌱 I’m currently learning **React.js**
+- I like solving problems and keen on competitive programming.
 
-- 📫 How to reach me **my3pt212@gmail.com**
+- Reach out to me to collaborate on projects. 
+
+- How to reach me **my3pt212@gmail.com**
 
 - ⚡ Fun fact **There are three ways to write error-free programs; only the fourth works.**
 
