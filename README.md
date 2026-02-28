@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Maitri P T</h1>
-<h4>A final year undergraduate in Information Science and Engineering at Ramaiah Institute of Technology</h4>
 <br>
 <img align ="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"/>
 
