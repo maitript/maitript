@@ -48,14 +48,17 @@ CCTV motion analysis in marked parking bays + **barcode** access control to flag
 
 ## Currently
 
-- Strengthening **system design** and production-minded habits (reliability, authZ, observability)  
-- Polishing public repos and interview stories for software engineering roles  
+- Exploring **distributed systems** patterns and cleaner API / data-pipeline design  
+- Building and documenting side projects across backend and applied ML  
 
 ---
 
+## GitHub stats
+
+<!-- Official github-readme-stats.vercel.app is often paused (503). Using a community mirror. -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maitript&show_icons=true&theme=transparent&hide_border=true" height="140" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitript&layout=compact&theme=transparent&hide_border=true" height="140" alt="Top languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=maitript&show_icons=true&theme=default&hide_border=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=maitript&layout=compact&theme=default&hide_border=true" height="160" alt="Top languages" />
 </p>
 
 <!--
